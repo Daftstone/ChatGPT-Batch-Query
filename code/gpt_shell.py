@@ -6,7 +6,7 @@ import sys
 from rich.console import Console
 from rich.markdown import Markdown
 
-from chatgpt_wrapper.chatgpt import ChatGPT
+from chatgpt import ChatGPT
 
 console = Console()
 
