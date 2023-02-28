@@ -1,5 +1,6 @@
 ## About
-This project is used to batch read questions from files and automatically grab chatgpt query results of corresponding questions without manual input. We are using the [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) library to interact with the ChatGPT API.
+About
+This project is used to automatically grab the query results of ChatGPT in batches without manual input. And it supports automatic switching between multiple accounts. We are using the [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) library to interact with the ChatGPT API.
 
 ## Highlights
 * One-click script for Windows, Mac, and Linux, easy for novices.
