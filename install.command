@@ -1,0 +1,1 @@
+pip install pytest-playwright rich pyreadline3 && playwright install firefox && cd `dirname $0` && cd code && python main.py install

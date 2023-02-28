@@ -1,0 +1,1 @@
+start cmd /k "cd /d %~dp0 && cd code && python run_different_chat.py"

@@ -1,0 +1,1 @@
+start cmd /k "cd code && python main.py"

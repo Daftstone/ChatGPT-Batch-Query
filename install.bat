@@ -1,0 +1,1 @@
+start cmd /k "pip install pytest-playwright rich pyreadline3 && playwright install firefox && cd code && python main.py install"

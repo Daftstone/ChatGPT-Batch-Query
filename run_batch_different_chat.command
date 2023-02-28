@@ -1,0 +1,1 @@
+cd `dirname $0` && cd code && python run_different_chat.py

@@ -1,0 +1,1 @@
+cd `dirname $0` && cd code && python get_cookie.py
